@@ -3,7 +3,6 @@
 # =============================
 #        DOCKMAN v2.5
 #   Docker Admin Dashboard
-#   Author: Riyad Ridwan
 # =============================
 
 BASE_DIR="$(cd -- "$(dirname -- "${BASH_SOURCE[0]}")" &> /dev/null && pwd)"
