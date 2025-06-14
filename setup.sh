@@ -1,10 +1,10 @@
 #!/bin/bash
 
 TOOL_NAME="dockman"
-TOOL_SCRIPT="./dockman.sh"
+TOOL_SCRIPT="./docman.sh"
 DB_FILE=".config/dockman.db"
 SESSION_FILE=".config/.session_token"
-ALIAS_NAME="dockman"
+ALIAS_NAME="docman"
 SHELL_RC="$HOME/.bashrc"
 [[ "$SHELL" == */zsh ]] && SHELL_RC="$HOME/.zshrc"
 
