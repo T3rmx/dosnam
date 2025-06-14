@@ -1,7 +1,7 @@
 #!/bin/bash
 
 TOOL_NAME="dockman"
-TOOL_SCRIPT="./docman.sh"
+TOOL_SCRIPT="docman.sh"
 DB_FILE=".config/dockman.db"
 SESSION_FILE=".config/.session_token"
 ALIAS_NAME="docman"
@@ -108,7 +108,7 @@ add_alias() {
     echo -e "${GREEN}[✓] Alias added. Reload your shell or run: source $SHELL_RC${NC}"
   fi
 }
-
+source "$SHELL_RC"
 # 🧪 Create session token
 create_session_token() {
   token=$(openssl rand -hex 32)
