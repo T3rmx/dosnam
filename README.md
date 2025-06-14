@@ -37,9 +37,9 @@ A powerful and interactive terminal-based Docker management tool. Secure, effici
   - Configuration directories
 
 - 📚 **Organized Output**  
-  - All reports go to: `./reports/`
-  - Snapshots saved in: `./snapshots/`
-  - Logs stored in: `./logs/`
+  - All reports go to: `reports/`
+  - Snapshots saved in: `snapshots/`
+  - Logs stored in: `logs/`
 
 ---
 
