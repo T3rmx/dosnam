@@ -5,8 +5,8 @@ TOOL_SCRIPT="docman.sh"
 DB_FILE=".config/dockman.db"
 SESSION_FILE=".config/.session_token"
 ALIAS_NAME="docman"
-SHELL_RC="$HOME/.bashrc"
-[[ "$SHELL" == */zsh ]] && SHELL_RC="$HOME/.zshrc"
+SHELL_RC="$HOME/.zshrc"
+[[ "$SHELL" == */bash ]] && SHELL_RC="$HOME/.bashrc"
 
 # 🎨 Colors
 GREEN="\e[32m"
