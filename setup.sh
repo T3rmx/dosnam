@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# 🛠️ DOCKER ADMIN TOOL SETUP SCRIPT
-# Author: Riyad Ridwan
-
 TOOL_NAME="dockman"
 TOOL_SCRIPT="./dockman.sh"
 DB_FILE=".config/dockman.db"
