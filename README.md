@@ -1,7 +1,7 @@
 
 ---
 
-# 🐳 DOCKMAN – Docker Admin Dashboard v2.5
+# 🐳 DOCMAN – Docker Admin Dashboard v2.5
 
 A powerful and interactive terminal-based Docker management tool. Secure, efficient, and perfect for both Red Teamers and DevOps engineers.
 
